@@ -65,13 +65,15 @@
 | ---- | ------ |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 | [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
+| [BunsenLabs Openbox 探索筆記](https://samwhelp.github.io/note-about-bunsenlabs-openbox/) | [GitHub](https://github.com/samwhelp/note-about-bunsenlabs-openbox) |
+| [Mabox Openbox 探索筆記](https://samwhelp.github.io/note-about-mabox-openbox/) | [GitHub](https://github.com/samwhelp/note-about-mabox-openbox) |
 
 
 | Link | GitHub |
 | ---- | ------ |
-| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
-| [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
-| [Archlinux Lxde 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxde) |
+| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
+| [ArchLinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
+| [ArchLinux Lxde 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxde) |
 
 
 
